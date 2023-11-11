@@ -11,3 +11,8 @@
   font-weight: 500;
   color: black !important;
 }
+.chart {
+  display: flex;
+  margin: auto;
+  margin-top: 6%;
+}
